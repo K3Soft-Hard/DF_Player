@@ -1,5 +1,5 @@
 
-> Open this page at [https://k3soft-hard.github.io/df_player/](https://k3soft-hard.github.io/df_player/)
+>
 
 
 ## Edit this project
