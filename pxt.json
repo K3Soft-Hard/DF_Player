@@ -1,0 +1,30 @@
+{
+    "name": "DFPlayer blocks - jumper #5",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*",
+        "dfplayermini": "github:51bit/dfplayermini#v0.1.6",
+        "bluetooth": "*",
+        "MakerBit-MP3": "github:k3soft-and-hard/pxt-makerbit-mp3#v0.0.1"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "display.ts",
+        "analogkeypad.ts",
+        "ledcontrol.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "6.0.28",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
