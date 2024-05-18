@@ -1,14 +1,6 @@
 
 > Open this page at [https://k3soft-hard.github.io/df_player/](https://k3soft-hard.github.io/df_player/)
 
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/k3soft-hard/df_player** and import
 
 ## Edit this project
 
